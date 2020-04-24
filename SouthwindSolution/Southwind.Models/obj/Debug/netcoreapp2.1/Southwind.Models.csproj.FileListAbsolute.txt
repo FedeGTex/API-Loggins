@@ -1,0 +1,9 @@
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Models\bin\Debug\netcoreapp2.1\Southwind.Models.deps.json
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Models\bin\Debug\netcoreapp2.1\Southwind.Models.dll
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Models\bin\Debug\netcoreapp2.1\Southwind.Models.pdb
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Models\obj\Debug\netcoreapp2.1\Southwind.Models.csproj.CoreCompileInputs.cache
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Models\obj\Debug\netcoreapp2.1\Southwind.Models.AssemblyInfoInputs.cache
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Models\obj\Debug\netcoreapp2.1\Southwind.Models.AssemblyInfo.cs
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Models\obj\Debug\netcoreapp2.1\Southwind.Models.dll
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Models\obj\Debug\netcoreapp2.1\Southwind.Models.pdb
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Models\obj\Debug\netcoreapp2.1\Southwind.Models.csprojAssemblyReference.cache

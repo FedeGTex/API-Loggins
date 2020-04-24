@@ -1,0 +1,12 @@
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Repositories\bin\Debug\netcoreapp2.1\Southwind.Repositories.deps.json
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Repositories\bin\Debug\netcoreapp2.1\Southwind.Repositories.dll
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Repositories\bin\Debug\netcoreapp2.1\Southwind.Repositories.pdb
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Repositories\bin\Debug\netcoreapp2.1\Southwind.Models.dll
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Repositories\bin\Debug\netcoreapp2.1\Southwind.Models.pdb
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Repositories\obj\Debug\netcoreapp2.1\Southwind.Repositories.csprojAssemblyReference.cache
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Repositories\obj\Debug\netcoreapp2.1\Southwind.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Repositories\obj\Debug\netcoreapp2.1\Southwind.Repositories.AssemblyInfoInputs.cache
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Repositories\obj\Debug\netcoreapp2.1\Southwind.Repositories.AssemblyInfo.cs
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Repositories\obj\Debug\netcoreapp2.1\Southwind.Repositories.csproj.CopyComplete
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Repositories\obj\Debug\netcoreapp2.1\Southwind.Repositories.dll
+C:\Users\Fede\Documents\Southwind\SouthwindSolution\Southwind.Repositories\obj\Debug\netcoreapp2.1\Southwind.Repositories.pdb
